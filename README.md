@@ -3,5 +3,6 @@ A project for chillin wars competition(year 2020) written in Python, We made age
 
 # result of the competition:
 ![Game UI](/Image/image2.png)
+
 We finished in 4th place 
 ![Ranking Table](/Image/image.png)
